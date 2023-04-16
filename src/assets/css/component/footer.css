@@ -1,0 +1,14 @@
+.footer {
+  background: #eaeaea;
+  padding: 40px;
+}
+
+.footer-logo {
+  width: 200px;
+}
+
+.footer-slogan {
+  margin-top: 24px;
+  font-size: 16px;
+  line-height: 24px;
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Đồ ngọt",
+    "thumnail": "assets/images/category_sweet.png"
+  },
+  {
+    "id": 2,
+    "name": "Soup",
+    "thumnail": "assets/images/category_nut.png"
+  },
+  {
+    "id": 3,
+    "name": "Salad",
+    "thumnail": "assets/images/category_salad.png"
+  },
+  {
+    "id": 4,
+    "name": "Mì",
+    "thumnail": "assets/images/category_noodle.png"
+  },
+  {
+    "id": 5,
+    "name": "Heathy",
+    "thumnail": "assets/images/category_heathy.png"
+  },
+  {
+    "id": 6,
+    "name": "Đồ ăn sáng",
+    "thumnail": "assets/images/category_fastfood.png"
+  },
+  {
+    "id": 7,
+    "name": "Đồ ăn nhanh",
+    "thumnail": "assets/images/Categories23.png"
+  },
+  {
+    "id": 8,
+    "name": "Sinh tố",
+    "thumnail": "assets/images/Categories26.png"
+  },
+  {
+    "id": 9,
+    "name": "Kem tươi",
+    "thumnail": "assets/images/Categories25.png"
+  }
+]

@@ -1,0 +1,21 @@
+.card-category__name {
+    text-align: center;
+    color: white;
+}
+
+.card-category__img {
+    width: 11em;
+    height: 11em;
+    display: block;
+    margin: 0px auto;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.card-category__name {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 45px;
+    cursor: pointer;
+    color: white;
+}

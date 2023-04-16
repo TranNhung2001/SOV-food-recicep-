@@ -1,0 +1,27 @@
+.categories {
+  margin-top: 40px;
+}
+
+.title {
+  margin-top: 40px;
+  font-size: 45px;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  background-color: #d5d5d548;
+  padding: 26px;
+  color: var(--darkBlue);
+  border-radius: 100%;
+  box-shadow: 1px 1px 5px 1px #ababab;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 26px;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: #f3f1f1dc;
+}

@@ -1,0 +1,4 @@
+@import "globals.css";
+
+/* Component */
+@import "./component/cardCategory.css"; /* Page*/

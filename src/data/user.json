@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "username": "oanh",
+        "password": "123456",
+        "img": "assets/images/chef_1.png"
+    },
+    {
+        "id": 2,
+        "username": "trung",
+        "password": "123456",
+        "img": "assets/images/chef_2.png"
+    },
+    {
+        "id": 3,
+        "usersname": "tri",
+        "password": "123456",
+        "img": "assets/images/chef_3.png"
+    }
+]

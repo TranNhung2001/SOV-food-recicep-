@@ -1,0 +1,38 @@
+.slide {
+  margin-top: 120px;
+  overflow: hidden;
+  background: var(--blue);
+}
+
+.slide-img img {
+  width: 100%;
+  max-height: 80vh;
+  object-fit: cover;
+}
+
+.slide-content {
+  padding: 30px;
+}
+
+.slide-title {
+  font-size: 52px;
+  line-height: 65px;
+  margin-bottom: 20px;
+}
+
+.slide-decr {
+  font-size: 18px;
+}
+/* .swiper-pagination-bullet {
+  width: 14px;
+  height: 14px;
+} */
+.swiper-pagination-bullet-active {
+  background-color: white !important;
+}
+
+@media screen and (max-width: 992px) {
+  .slide {
+    margin-top: 240px;
+  }
+}

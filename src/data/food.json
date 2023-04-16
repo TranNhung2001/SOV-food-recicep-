@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "name": "caramel dâu",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_1.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mì sốt spaghetti",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_2.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Salad cá hồi",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_3.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mứt cam ướp đường",
+    "countLike": 100,
+    "time": "20 phút",
+    "own": {
+      "id": 1,
+      "usename": "oanh",
+      "img": "assets/images/chef_1.png"
+    },
+    "img": "assets/images/food_5.png",
+    "decr": "Look no further for a creamy and ultra smooth classic chesscake recipe no one can deny its simple decadence",
+    "ingredienMain": ["dâu"],
+    "ingredientsSub": ["Sữa nguyên kem", "kem tươi", "đường"],
+    "intro": [
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?",
+      "Lorem Ipsum tempor incididunt ut labore et dolore,in voluptate velit esse cillum dolore eu fugiat nulla pariatur?"
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "uses": {
+          "id": 1,
+          "usename": "oanh",
+          "img": "assets/images/chef_1.png"
+        },
+        "comments": "Cong thuc rat hay",
+        "reply": [
+          {
+            "uses": {
+              "id": 2,
+              "usename": "trung",
+              "img": "assets/images/chef_2.png"
+            },
+            "comments": "Cong thuc rat tuyet"
+          },
+          {
+            "uses": {
+              "id": 3,
+              "usename": "tri",
+              "img": "assets/images/chef_3.png"
+            },
+            "comments": "Cam on cong thuc cua ban"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "uses": {
+          "id": 2,
+          "usename": "trung",
+          "img": "assets/images/chef_2.png"
+        },
+        "comments": "Cong thuc hay"
+      }
+    ]
+  }
+]
